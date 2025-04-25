@@ -5,3 +5,4 @@ def printmyname():
 def printmycourse():
   print("Course is ", course)
 
+print("Welcome")
